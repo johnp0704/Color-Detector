@@ -15,5 +15,5 @@ Final project for Optoelectronics at UVM. A color detector utilizing an addressa
 * 1 LED Segment from a 5050 Addressable LED Strip (other LEDs of a similar form factor can be used)
 * 10k LDR (photocell)
 * LCD 16x2 Display with I2C Backpack
-* 3D Printed Shroud (file can be downloaded here (modify as needed): https://hackmakemod.com/blogs/projects/ldr-color-checker)
+* 3D Printed Shroud - file can be downloaded here (modify as needed): https://hackmakemod.com/blogs/projects/ldr-color-checker)
 
