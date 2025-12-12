@@ -9,7 +9,7 @@ Final project for Optoelectronics at UVM. A color detector utilizing an addressa
 ### Parts List
 * Arduino UNO or equivalent microcontroller
 * Push Button
-* 3x 2n7000 MOSFET
+* 3x 2N7000 MOSFET
 * 3x 220Ohm Resistors
 * 1MOhm Resistor
 * 1 LED Segment from a 5050 Addressable LED Strip (other LEDs of a similar form factor can be used)
